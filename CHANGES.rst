@@ -6,7 +6,9 @@ Here you can see the full list of changes between each Eve release.
 In Development
 ---------------
 
-- *hic sunt leones*
+- fix: Validation issue when a field is ``id_field`` with ``unique=True`` (`#1559`_)
+
+.. _`#1559`: https://github.com/pyeve/eve/issues/1559
 
 Version v2.2.2 and v2.2.3
 -------------------------
