@@ -6,6 +6,13 @@ Here you can see the full list of changes between each Eve release.
 In Development
 ---------------
 
+- *his sunt leones*
+
+Version v2.2.4
+--------------
+
+Released on December 2, 2025.
+
 - fix: Validation issue when a field is ``id_field`` with ``unique=True`` (`#1559`_)
 
 .. _`#1559`: https://github.com/pyeve/eve/issues/1559
