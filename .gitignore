@@ -70,3 +70,4 @@ _build
 pip-wheel-metadata/
 !/.eggs/
 .venv/
+.claude/
