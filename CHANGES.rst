@@ -4,7 +4,14 @@ Changelog
 Here you can see the full list of changes between each Eve release.
 
 In Development
----------------
+--------------
+
+- *hic sunt leones*
+
+Version v2.2.5
+--------------
+
+Released on February 11, 2026.
 
 - fix: ``OPTIMIZE_PAGINATION_FOR_SPEED`` 'next' link incorrectly included a document id in the href when paginating through collections (`#1567`_)
 
