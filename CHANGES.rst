@@ -6,7 +6,9 @@ Here you can see the full list of changes between each Eve release.
 In Development
 ---------------
 
-- *his sunt leones*
+- fix: ``OPTIMIZE_PAGINATION_FOR_SPEED`` 'next' link incorrectly included a document id in the href when paginating through collections (`#1567`_)
+
+.. _`#1567`: https://github.com/pyeve/eve/pull/1567
 
 Version v2.2.4
 --------------
